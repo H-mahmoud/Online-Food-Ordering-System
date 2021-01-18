@@ -1,0 +1,43 @@
+<css>
+/*=======Footer---------*/
+
+.footer{
+    background-color: #343a40;
+    margin-top: 40px;
+    color: white;
+}
+
+.primary{
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+.primary:hover{
+    color: #28a745;
+    background-color: #fff;
+    border-color: #28a745;
+}
+.admin-ul{
+
+    list-style-type: none;
+}
+
+.admin-ul li {
+    padding: 5%;
+    margin-bottom: 2%;
+    border-bottom: 1px solid #f2f2f2;
+}
+
+.admin-ul a {
+    color: black;
+    text-decoration: none;
+}
+
+.admin-ul li:hover {
+    background-color: #f2f2f2;
+}
+
+
+
+</css>

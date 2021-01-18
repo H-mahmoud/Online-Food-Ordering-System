@@ -1,0 +1,1 @@
+A controller updates both models and views. It accepts input and performs the corresponding update.

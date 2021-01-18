@@ -1,0 +1,2 @@
+A model is data used by a program. 
+This may be a database, file, or a simple object, such as an icon or a character in a video game.
