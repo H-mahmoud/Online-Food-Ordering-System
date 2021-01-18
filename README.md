@@ -1,4 +1,4 @@
-# Online Food Ordering System
+# Online Food Ordering System 🛵🍕🍟🌭
 
 The main objective of online food ordering system is to automate the existing manual system with the help of advance computerized software so, that valuable data can be stored for longer period with easy accessing and manipulation of the same. 
 
@@ -7,7 +7,7 @@ User can surf the food items according to categories, Cart and cash payment opti
 User can track their orders with the food details. In Online Food Ordering System Admin can handle the functionalities like add new food items, edit/delete food items, Enable/Disable the food items according to season and availability. 
 
 Admin have authority to view order details and update the delivery status of food. The payment transaction and user details are also viewable to admin.
-
+#
 
 **Admin:**
 -	Login/Logout: User have to login with their credentials to access food ordering system. 
@@ -28,6 +28,7 @@ Admin have authority to view order details and update the delivery status of foo
 **Advantages:**
 -	Customer can check the food items details with prices efficiently.
 -	Customer can keep track of their orders too.
+#
 
 **Images from the system:**
 
